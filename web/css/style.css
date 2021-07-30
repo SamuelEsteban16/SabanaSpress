@@ -1,0 +1,51 @@
+body {
+    background-color: darkgrey;
+}
+
+main{
+    width: 100%;
+    padding:20px;
+    margin: auto;
+    margin-top: 100px;
+}
+.con{
+    width: 100%;
+    padding:20px;
+    margin: auto;
+
+}
+
+
+.contenedor{
+    display: flex;
+    align-items: center;
+}
+ h1, button{
+    text-align: center;
+    font-family: cursive;
+
+}
+.contenedor{
+    width: 100%;
+    max-width: 800px;
+    margin: auto; 
+    position: relative;
+    background-color: white;
+    padding: 60px 20px;
+    border-radius: 20px;  
+}
+.contenedor form {
+    width: 100%;
+    max-width: 800px;
+    margin: auto; 
+    position: relative;
+    background-color: white;
+    padding: 60px 20px;
+    border-radius: 20px;
+}
+
+img{
+    width: 350px;
+    height: 700px;
+    opacity: 0.75;
+}
